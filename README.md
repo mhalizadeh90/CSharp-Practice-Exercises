@@ -42,8 +42,8 @@ In this project, we follow specific branch naming conventions to keep our reposi
 
 4. **Refactor/[target]**: Branches focusing on code refactoring or restructuring to improve code quality without changing functionality.
 
-5. **docs/[target]**: Branches related to documentation changes or updates.
+5. **Docs/[target]**: Branches related to documentation changes or updates.
 
-6. **test/[target]**: Branches specifically dedicated to writing or updating tests.
+6. **Test/[target]**: Branches specifically dedicated to writing or updating tests.
 
-7. **chore/[task-name]**: Branches for non-code related tasks, like build configuration, tooling updates, etc.
+7. **Chore/[task-name]**: Branches for non-code related tasks, like build configuration, tooling updates, etc.
