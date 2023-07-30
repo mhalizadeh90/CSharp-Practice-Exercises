@@ -29,21 +29,3 @@ This repository contains my solutions to various C# practice exercises. Each exe
 ## Additional Exercises
 
 This repository will be periodically updated with new exercises.
-
-# Branching Conventions
-
-In this project, we follow specific branch naming conventions to keep our repository organized and to make it easier to understand the purpose of each branch. Below are the main branch types we use:
-
-1. **Feature/[feature-name]**: Branches created for implementing new features or functionalities.
-
-2. **Fix/[issue-number]**: Branches dedicated to addressing specific bugs or issues. The issue or bug number is included in the branch name for easy reference.
-
-3. **Update/[target]**: Branches for updating or modifying specific parts of the codebase.
-
-4. **Refactor/[target]**: Branches focusing on code refactoring or restructuring to improve code quality without changing functionality.
-
-5. **Docs/[target]**: Branches related to documentation changes or updates.
-
-6. **Test/[target]**: Branches specifically dedicated to writing or updating tests.
-
-7. **Chore/[task-name]**: Branches for non-code related tasks, like build configuration, tooling updates, etc.
